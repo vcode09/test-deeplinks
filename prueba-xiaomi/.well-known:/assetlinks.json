@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"gt.com.bi.bienlinea",
+         "sha256_cert_fingerprints":[
+            "E2:03:90:29:10:24:4B:BD:35:93:13:AD:D3:5F:EA:74:56:8E:13:77:D2:DE:EB:6D:D1:58:5F:DD:B9:7A:49:04"
+         ]
+      }
+   }
+]
